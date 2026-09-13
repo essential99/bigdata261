@@ -1,0 +1,15 @@
+#비밀
+.env
+.env.*
+!.env.example
+*token*.txt
+*secret*
+
+__pycashe__/
+*.pyc
+*.docx
+*.pptx
+*.pdf
+*.jpg
+*.jpeg
+*.png
